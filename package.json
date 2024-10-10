@@ -1,0 +1,29 @@
+{
+  "name": "js_mern_full_stack_setec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proceed15/JS_MERN_Full_Stack_SETEC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Proceed15/JS_MERN_Full_Stack_SETEC/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/Proceed15/JS_MERN_Full_Stack_SETEC#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoos": "^0.0.1-security",
+    "nodemon": "^3.1.7"
+  }
+}
