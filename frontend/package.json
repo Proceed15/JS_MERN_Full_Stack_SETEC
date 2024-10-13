@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "frontend--",
   "private": true,
   "version": "0.0.0",
@@ -24,5 +25,9 @@
     "eslint-plugin-react-refresh": "^0.4.12",
     "globals": "^15.9.0",
     "vite": "^5.4.8"
+=======
+  "dependencies": {
+    "react-router-dom": "^6.26.2"
+>>>>>>> 2bc72ccbbdcd10a34d733283e647289925412c8a
   }
 }

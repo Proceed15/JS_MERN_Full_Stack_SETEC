@@ -1,10 +1,15 @@
 {
+<<<<<<< HEAD
   "name": "curso-react",
+=======
+  "name": "js_mern_full_stack_setec",
+>>>>>>> 2bc72ccbbdcd10a34d733283e647289925412c8a
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+<<<<<<< HEAD
     "dev": "node --watch backend/server.js"
     
   },
@@ -12,10 +17,31 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+=======
+    "dev": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proceed15/JS_MERN_Full_Stack_SETEC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Proceed15/JS_MERN_Full_Stack_SETEC/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/Proceed15/JS_MERN_Full_Stack_SETEC#readme",
+>>>>>>> 2bc72ccbbdcd10a34d733283e647289925412c8a
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
+<<<<<<< HEAD
     "mongoose": "^8.7.1"
+=======
+    "mongoos": "^0.0.1-security",
+    "nodemon": "^3.1.7"
+>>>>>>> 2bc72ccbbdcd10a34d733283e647289925412c8a
   }
 }
