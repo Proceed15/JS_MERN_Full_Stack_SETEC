@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # JS_MERN_Full_Stack_SETEC
-Projeto Elaborado durante a Semana de Tecnologia no Mini Curso de MERN a partir de um projeto Full Stack
+Projeto Elaborado durante a Semana de Tecnologia no Mini Curso de MERN sendo um projeto Full Stack
 >>>>>>> 2bc72ccbbdcd10a34d733283e647289925412c8a
